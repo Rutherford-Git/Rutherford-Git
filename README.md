@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+https://dev.to/jesswillcode jesswillcode https://www.linkedin.com/in/rutherford-alexis/ 19036040 https://www.instagram.com/jesswilladventure/ https://dribbble.com/jesswillcode @jesswillcode https://www.youtube.com/channel/ucqwg-expsq9uz_w6gx6j9jw https://www.hackerrank.com/jesswillcode?hr_r=1
+
 <!--
 **Rutherford-Git/Rutherford-Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
