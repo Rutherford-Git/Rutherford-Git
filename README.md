@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://unsplash.com/photos/XJXWbfSo2f0" alt="my banner">
+<img src="C:/Users/ruthe/Downloads/luca-bravo-XJXWbfSo2f0-unsplash.jpg" alt="my banner">
 
 <!-- https://dev.to/jesswillcode jesswillcode https://www.linkedin.com/in/rutherford-alexis/ 19036040 https://www.instagram.com/jesswilladventure/ https://dribbble.com/jesswillcode @jesswillcode https://www.youtube.com/channel/ucqwg-expsq9uz_w6gx6j9jw https://www.hackerrank.com/jesswillcode?hr_r=1 -->
 
