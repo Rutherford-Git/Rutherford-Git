@@ -5,43 +5,41 @@
 </br>
 
 ### 🤝 Connect with me:
+<a href="https://www.linkedin.com/in/yushi95/"><img align-items="left" src="https://www.flaticon.com/free-icons/instagram" alt="Yu Shi | LinkedIn" width="21px"/></a>
+
+<a href="https://instagram.com/yushi.95"><img align-items="left" src="img/instagram.png" alt="Yu Shi | Instagram" width="21px"/></a>
+
+<a href="https://yushi95.medium.com/"><img align-items="left" src="https://www.flaticon.com/free-icons/instagram" alt="Yu Shi | Medium" width="21px"/></a>
 
 ## 💼 Technical Skills
 <div align-items="start">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
 
-<img src="	https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+    <img src="	https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
 
-<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
 
-<img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink">
+    <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink">
 
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
-<img src="https://img.shields.io/badge/Javasrcipt-323330?style=for-the-badge&logo=javasrcipt&logoColor=F7DF1E">
+    <img src="https://img.shields.io/badge/Javasrcipt-323330?style=for-the-badge&logo=javasrcipt&logoColor=F7DF1E">
 
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 
-<img src="https://img.shields.io/badge/Javasrcipt-323330?style=for-the-badge&logo=javasrcipt&logoColor=F7DF1E">
+    <img src="https://img.shields.io/badge/Javasrcipt-323330?style=for-the-badge&logo=javasrcipt&logoColor=F7DF1E">
 
-<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 </div>
 
 </br>
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=CC342D)
-![](https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=Ruby-On-Rails&color=CC0000)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
-![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
+
 
 ![Rutherford's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rutherford-Git&show_icons=true&theme=tokyonight)
 
