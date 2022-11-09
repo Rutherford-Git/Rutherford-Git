@@ -5,12 +5,12 @@
 </br>
 
 ### 🤝 Connect with me:
-<div align-items='start'>
- <a href="https://www.linkedin.com/in/rutherford-alexis/"><img align-items="left" src="img/linkedin.png" alt="Rutherford Alexis | LinkedIn" width="25px"/></a>
+<div align='start'>
+ <a href="https://www.linkedin.com/in/rutherford-alexis/"><img src="img/linkedin.png" alt="Rutherford Alexis | LinkedIn" width="25px"/></a>
 
- <a href="https://www.instagram.com/asap_raa/"><img align-items="left" src="img/instagram.png" alt="Rutherford Alexis | Instagram" width="25px"/></a>
+ <a href="https://www.instagram.com/asap_raa/"><img src="img/instagram.png" alt="Rutherford Alexis | Instagram" width="25px"/></a>
 
- <a href="facebook.com/rutherford.grey"><img align-items="left" src="img/facebook.png" alt="Rutherford Alexis | Facebook" width="25px"/></a>
+ <a href="facebook.com/rutherford.grey"><img src="img/facebook.png" alt="Rutherford Alexis | Facebook" width="25px"/></a>
 </div>
 
 </br>
