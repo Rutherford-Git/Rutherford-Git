@@ -7,7 +7,7 @@
 ### 🤝 Connect with me:
 
 ## 💼 Technical Skills
-
+<div align-items="start">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
@@ -31,6 +31,7 @@
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+</div>
 
 </br>
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
