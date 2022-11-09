@@ -8,7 +8,8 @@ Hi there, I'm Rutherford 👋
 I'm a Full-Stack Web Developer 💻, Photographer 📸, and Artist 🎨!
 </h2>
 
-
+## 🌱 I'm currently learning
+- Python
 
 </br>
 
