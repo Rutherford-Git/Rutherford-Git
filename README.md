@@ -5,37 +5,41 @@
 </br>
 
 ### 🤝 Connect with me:
-<a href="https://www.linkedin.com/in/yushi95/"><img align-items="left" src="https://www.flaticon.com/free-icons/instagram" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<div align-items='start'>
+<a href="https://www.linkedin.com/in/rutherford-alexis/"><img align-items="left" src="img/linkedin.png" alt="Rutherford Alexis | LinkedIn" width="21px"/></a>
 
-<a href="https://instagram.com/yushi.95"><img align-items="left" src="img/instagram.png" alt="Yu Shi | Instagram" width="21px"/></a>
+<a href="https://www.instagram.com/asap_raa/"><img align-items="left" src="img/instagram.png" alt="Rutherford Alexis | Instagram" width="21px"/></a>
 
-<a href="https://yushi95.medium.com/"><img align-items="left" src="https://www.flaticon.com/free-icons/instagram" alt="Yu Shi | Medium" width="21px"/></a>
+<a href="facebook.com/rutherford.grey"><img align-items="left" src="img/facebook.png" alt="Rutherford Alexis | Medium" width="21px"/></a>
+</div>
+
+</br>
 
 ## 💼 Technical Skills
 <div align-items="start">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
-    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
 
-    <img src="	https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+<img src="	https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
 
-    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
 
-    <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink">
+<img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink">
 
-    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
 
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
-    <img src="https://img.shields.io/badge/Javasrcipt-323330?style=for-the-badge&logo=javasrcipt&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/Javasrcipt-323330?style=for-the-badge&logo=javasrcipt&logoColor=F7DF1E">
 
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 
-    <img src="https://img.shields.io/badge/Javasrcipt-323330?style=for-the-badge&logo=javasrcipt&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/Javasrcipt-323330?style=for-the-badge&logo=javasrcipt&logoColor=F7DF1E">
 
-    <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 
-    <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 </div>
 
 </br>
