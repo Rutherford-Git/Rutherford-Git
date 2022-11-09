@@ -5,7 +5,7 @@
 </br>
 
 ### 🤝 Connect with me:
-<div align-items='start'>
+<div align-content='start'>
  <a href="https://www.linkedin.com/in/rutherford-alexis/"><img src="img/linkedin.png" alt="Rutherford Alexis | LinkedIn" width="25px"/></a>
 
  <a href="https://www.instagram.com/asap_raa/"><img src="img/instagram.png" alt="Rutherford Alexis | Instagram" width="25px"/></a>
