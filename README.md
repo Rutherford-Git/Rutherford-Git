@@ -5,7 +5,10 @@
 ### 🤝 Connect with me:
 
 ## 💼 Technical Skills
-https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt="icon | LinkedIn” width=”21px”/></a>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+
 
 
 ![Rutherford's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rutherford-Git&show_icons=true&theme=tokyonight)
