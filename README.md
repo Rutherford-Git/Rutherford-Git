@@ -7,11 +7,11 @@
 ### 🤝 Connect with me:
 <div align="start">
 
- <a href="https://www.linkedin.com/in/rutherford-alexis/"><img src="img/linkedin.png" alt="Rutherford Alexis | LinkedIn" width="25px"/></a>
+ <a href="https://www.linkedin.com/in/rutherford-alexis/"><img src="img/linkedin.png" alt="Rutherford Alexis | LinkedIn"/></a>
 
- <a href="https://www.instagram.com/asap_raa/"><img src="img/instagram.png" alt="Rutherford Alexis | Instagram" width="25px"/></a>
+ <a href="https://www.instagram.com/asap_raa/"><img src="img/instagram.png" alt="Rutherford Alexis | Instagram"/></a>
 
- <a href="https://www.facebook.com/rutherford.grey/"><img src="img/facebook.png" alt="Rutherford Alexis | Facebook" width="25px"/></a>
+ <a href="https://www.facebook.com/rutherford.grey/"><img src="img/facebook.png" alt="Rutherford Alexis | Facebook"/></a>
 
 </div>
 
