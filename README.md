@@ -8,13 +8,7 @@ Hi there, I'm Rutherford 👋
 I'm a Full-Stack Web Developer 💻, Photographer 📸, and Artist 🎨!
 </h2>
 
-### 🤝 Connect with me:
 
- <a href="https://www.linkedin.com/in/rutherford-alexis/"><img src="img/linkedin.png" alt="Rutherford Alexis | LinkedIn"/>/rutherford.alexis</a>
-
- <a href="https://www.instagram.com/asap_raa/"><img src="img/instagram.png" alt="Rutherford Alexis | Instagram"/>/rutherford.grey</a>
-
- <a href="https://www.facebook.com/rutherford.grey/"><img src="img/facebook.png" alt="Rutherford Alexis | Facebook"/>/asap_raa</a>
 
 </br>
 
@@ -49,6 +43,13 @@ I'm a Full-Stack Web Developer 💻, Photographer 📸, and Artist 🎨!
 
 ![Rutherford's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rutherford-Git&show_icons=true&theme=tokyonight)
 
+### 🤝 Connect with me:
+
+ <a href="https://www.linkedin.com/in/rutherford-alexis/"><img src="img/linkedin.png" alt="Rutherford Alexis | LinkedIn"/>/rutherford.alexis</a>
+
+ <a href="https://www.instagram.com/asap_raa/"><img src="img/instagram.png" alt="Rutherford Alexis | Instagram"/>/rutherford.grey</a>
+
+ <a href="https://www.facebook.com/rutherford.grey/"><img src="img/facebook.png" alt="Rutherford Alexis | Facebook"/>/asap_raa</a>
 
 <!--
 **Rutherford-Git/Rutherford-Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -64,3 +65,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
