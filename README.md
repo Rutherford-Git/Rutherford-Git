@@ -2,10 +2,11 @@
 
 ### Hi there, I'm Rutherford 👋
 
+</br>
+
 ### 🤝 Connect with me:
 
 ## 💼 Technical Skills
-<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt="icon | LinkedIn” width=”21px”/></a>
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
@@ -31,10 +32,7 @@
 
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 
-<img src="">
-<img src="">
-
-
+</br>
 
 ![Rutherford's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rutherford-Git&show_icons=true&theme=tokyonight)
 
