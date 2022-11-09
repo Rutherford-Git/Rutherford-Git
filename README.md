@@ -1,4 +1,4 @@
-<img src="img/BAF928D1-2106-4FA4-8D8F-DDD2B1B4BEF5.png" alt="my banner">
+<img align="center" src="img/DC0E250C-1758-4D3C-A8F4-24C9A33F527F.png" alt="my banner">
 
 <h3 align="center">
 Hi there, I'm Rutherford 👋
