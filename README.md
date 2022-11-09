@@ -5,7 +5,7 @@
 </br>
 
 ### 🤝 Connect with me:
-<div align="start">
+<nav align="start">
 
  <a href="https://www.linkedin.com/in/rutherford-alexis/"><img src="img/linkedin.png" alt="Rutherford Alexis | LinkedIn"/></a>
 
@@ -13,7 +13,7 @@
 
  <a href="https://www.facebook.com/rutherford.grey/"><img src="img/facebook.png" alt="Rutherford Alexis | Facebook"/></a>
 
-</div>
+</nav>
 
 </br>
 
