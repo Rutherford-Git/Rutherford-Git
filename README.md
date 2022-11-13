@@ -48,7 +48,7 @@ I'm a Full-Stack Web Developer 💻, Photographer 📸, and Artist 🎨!
 
  <a href="https://www.linkedin.com/in/rutherford-alexis/"><img src="img/linkedin.png" alt="Rutherford Alexis | LinkedIn"/>/rutherford.alexis</a>
 
- <a href="https://www.instagram.com/asap_raa/"><img src="img/instagram.png" alt="Rutherford Alexis | Instagram"/>/rutherford.grey</a>
+ <a href="https://www.instagram.com/cloud_shinobi/"><img src="img/instagram.png" alt="Rutherford Alexis | Instagram"/>/rutherford.grey</a>
 
  <a href="https://www.facebook.com/rutherford.grey/"><img src="img/facebook.png" alt="Rutherford Alexis | Facebook"/>/asap_raa</a>
 
