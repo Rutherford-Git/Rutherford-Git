@@ -27,8 +27,6 @@ I'm a Full-Stack Web Developer 💻, Photographer 📸, and Artist 🎨!
 
  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
 
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-
  <img src="https://img.shields.io/badge/Javasrcipt-323330?style=for-the-badge&logo=javasrcipt&logoColor=F7DF1E">
 
  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
