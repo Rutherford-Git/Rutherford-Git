@@ -21,7 +21,7 @@ I'm a Full-Stack Web Developer 💻, Photographer 📸, and Artist 🎨!
 
 - ⚡ Fun fact **I am resto-moding a 1989 BMW 3 series with modern technologies implemented into it**
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rutherford-alexis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rutherford-alexis" height="30" width="40" /></a>
 <a href="https://instagram.com/cloud_shinobi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cloud_shinobi" height="30" width="40" /></a>
@@ -64,7 +64,7 @@ I'm a Full-Stack Web Developer 💻, Photographer 📸, and Artist 🎨!
 
  <a href="https://www.instagram.com/cloud_shinobi/"><img src="img/instagram.png" alt="Rutherford Alexis | Instagram"/>/rutherford.grey</a>
 
- <a href="https://www.facebook.com/rutherford.grey/"><img src="img/facebook.png" alt="Rutherford Alexis | Facebook"/>/asap_raa</a>
+ <a href="https://www.facebook.com/rutherford.grey/"><img src="img/facebook.png" alt="Rutherford Alexis | Facebook"/>/asap_raa</a> -->
 
 <!--
 **Rutherford-Git/Rutherford-Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
