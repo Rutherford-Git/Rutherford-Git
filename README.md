@@ -8,7 +8,7 @@ Hi there, I'm Rutherford 👋
 I'm a Full-Stack Web Developer 💻, Photographer 📸, and Artist 🎨!
 </h2>
 
-## About me:
+<h3 align="left">About me:</h3>
 - 🌱 I'm currently learning Python
 
 - 👨‍💻 All of my projects are available at [https://rutherfords-portfolio.webflow.io/](https://rutherfords-portfolio.webflow.io/)
