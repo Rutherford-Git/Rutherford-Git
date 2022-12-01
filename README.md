@@ -13,6 +13,12 @@ I'm a Full-Stack Web Developer 💻, Photographer 📸, and Artist 🎨!
 
 </br>
 
+- 👨‍💻 All of my projects are available at [https://rutherfords-portfolio.webflow.io/](https://rutherfords-portfolio.webflow.io/)
+
+- 📫 How to reach me **rutherford.aalexis@gmail.com**
+
+- 📄 Know about my experiences [https://docs.google.com/document/d/10r4_AiXlnQ1JqkL49g-ZHhMlCAolS400aeYWxDtcFzs/edit](https://docs.google.com/document/d/10r4_AiXlnQ1JqkL49g-ZHhMlCAolS400aeYWxDtcFzs/edit)
+
 - ⚡ Fun fact **I am resto-moding a 1989 BMW 3 series with modern technologies implemented into it**
 
 <h3 align="left">Connect with me:</h3>
