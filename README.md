@@ -13,6 +13,14 @@ I'm a Full-Stack Web Developer 💻, Photographer 📸, and Artist 🎨!
 
 </br>
 
+- ⚡ Fun fact **I am resto-moding a 1989 BMW 3 series with modern technologies implemented into it**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rutherford-alexis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rutherford-alexis" height="30" width="40" /></a>
+<a href="https://instagram.com/cloud_shinobi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cloud_shinobi" height="30" width="40" /></a>
+</p>
+
 ## 💼 Technical Skills
 <div align="start">
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
