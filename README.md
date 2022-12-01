@@ -21,13 +21,13 @@ I'm a Full-Stack Web Developer 💻, Photographer 📸, and Artist 🎨!
 
 - ⚡ Fun fact **I am resto-moding a 1989 BMW 3 series with modern technologies implemented into it**
 
-<!-- <h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rutherford-alexis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rutherford-alexis" height="30" width="40" /></a>
 <a href="https://instagram.com/cloud_shinobi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cloud_shinobi" height="30" width="40" /></a>
 </p>
 
-## 💼 Technical Skills
+<!-- ## 💼 Technical Skills
 <div align="start">
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
@@ -56,9 +56,9 @@ I'm a Full-Stack Web Developer 💻, Photographer 📸, and Artist 🎨!
 
 </br>
 
-![Rutherford's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rutherford-Git&show_icons=true&theme=tokyonight)
+![Rutherford's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rutherford-Git&show_icons=true&theme=tokyonight) -->
 
-### 🤝 Connect with me:
+<!-- ### 🤝 Connect with me:
 
  <a href="https://www.linkedin.com/in/rutherford-alexis/"><img src="img/linkedin.png" alt="Rutherford Alexis | LinkedIn"/>/rutherford.alexis</a>
 
