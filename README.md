@@ -11,12 +11,14 @@ I'm a Full-Stack Web Developer 💻, Photographer 📸, and Artist 🎨!
 <h3 align="left">About me:</h3>
 
 - 🌱 I'm currently learning Python
+- 🌱 I'm also creating a blog with react to form a library of instructions for car enthusiasts who want to work on the bmw e30 platform
+
 
 - 👨‍💻 All of my projects are available at [https://rutherfords-portfolio.webflow.io/](https://rutherfords-portfolio.webflow.io/)
 
 - 📫 How to reach me **rutherford.aalexis@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/10r4_AiXlnQ1JqkL49g-ZHhMlCAolS400aeYWxDtcFzs/edit](https://docs.google.com/document/d/10r4_AiXlnQ1JqkL49g-ZHhMlCAolS400aeYWxDtcFzs/edit)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1zMBNsun1-7Qf3e6JKtfPlA_qbcoGt5UveCBj_6yLD4Q/edit](https://docs.google.com/document/d/1zMBNsun1-7Qf3e6JKtfPlA_qbcoGt5UveCBj_6yLD4Q/edit)
 
 - ⚡ Fun fact **I am resto-moding a 1989 BMW 3 series with modern technologies implemented into it**
 
