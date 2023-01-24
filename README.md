@@ -12,12 +12,11 @@ I'm a Full-Stack Web Developer 💻!
 
 -   🌱 I'm currently learning Python
 -   🌱 I'm also creating a blog with react to form a library of instructions for car enthusiasts who want to work on the bmw e30 platform
+-   ⚡ Fun fact **I am resto-moding a 1989 BMW 3 series with modern technologies implemented into it**
 
 -   📫 How to reach me **rutherford.aalexis@gmail.com**
 
--   📄 Know about my experiences [https://docs.google.com/document/d/1zMBNsun1-7Qf3e6JKtfPlA_qbcoGt5UveCBj_6yLD4Q/edit](https://docs.google.com/document/d/1zMBNsun1-7Qf3e6JKtfPlA_qbcoGt5UveCBj_6yLD4Q/edit)
 
--   ⚡ Fun fact **I am resto-moding a 1989 BMW 3 series with modern technologies implemented into it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
