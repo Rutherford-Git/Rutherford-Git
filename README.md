@@ -5,7 +5,7 @@ Hi there, I'm Rutherford 👋
 </h3>
 
 <h2 align="center">
-I'm a Full-Stack Web Developer 💻, Photographer 📸, and Artist 🎨!
+I'm a Full-Stack Web Developer 💻!
 </h2>
 
 <h3 align="left">About me:</h3>
