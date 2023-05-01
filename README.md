@@ -10,8 +10,8 @@ I'm a Full-Stack Web Developer 💻!
 
 <h3 align="left">About me:</h3>
 
--   🌱 I'm currently learning Python
--   🌱 I'm also creating a blog with react to form a library of instructions for car enthusiasts who want to work on the bmw e30 platform
+-   🌱 I'm learning Python
+-   🌱 I'm currently working as a project manager
 -   ⚡ Fun fact **I am resto-moding a 1989 BMW 3 series with modern technologies implemented into it**
 
 -   📫 How to reach me **rutherford.aalexis@gmail.com**
