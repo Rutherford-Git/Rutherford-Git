@@ -11,7 +11,6 @@ I'm a Full-Stack Web Developer 💻!
 <h3 align="left">About me:</h3>
 
 -   🌱 I'm learning Python and C++
--   🌱 I'm currently working as a project manager
 -   ⚡ Fun fact **I am resto-moding a 1989 BMW 3 series with modern technologies implemented into it**
 
 -   📫 How to reach me **rutherford.aalexis@gmail.com**
