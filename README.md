@@ -10,7 +10,7 @@ I'm a Full Stack Web Developer
 
 <h3 align="left">About me:</h3>
 
--   🌱 I'm learning Python and C++
+-   🌱 I'm learning C++
 -   ⚡ Fun fact **I am resto-moding a BMW 3 series**
 
 -   📫 How to reach me **rutherford.aalexis@gmail.com**
